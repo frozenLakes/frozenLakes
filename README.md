@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frozenLakes
-- 👀 I’m interested in Music, History, Astronomy, Read books, 
+- 👀 I’m interested in Music, History, Astronomy, Books and nature 
 - 🌱 I’m currently learning Java and last version of Angular
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me alexis.chiambretto@gmail.com
